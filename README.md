@@ -1,43 +1,76 @@
 # Fairsharecoin
 
-**A digital stepping stone toward a fair and resource-based future.**
+**One person, one coin. Not more, not less. The future is fair.**
 
-Fairsharecoin is not just a currency — it’s a concept.  
-It proposes a single, equal unit of value given to each person, once, for free, with no strings attached.  
-No mining. No speculation. No scarcity by design.
+Fairsharecoin is a radically fair cryptocurrency designed to redefine how value is distributed. Unlike traditional systems based on mining, capital, or staking, Fairsharecoin operates on a single principle:
 
-It is an experiment in pure fairness — a response to systems built on debt, interest, and inequality.  
-Fairsharecoin is here to be **outgrown**, not hoarded. A protocol that, once fulfilled, will dissolve.
+> 🎯 One coin is issued to each unique person. Once. Ever.
 
----
-
-## Founder's Pledge
-
-> This project will never include:
->
-> - ❌ Monetization  
-> - ❌ Insider allocation  
-> - ❌ Compromises of fairness  
->
-> Fairsharecoin exists to explore what a truly fair, post-scarcity, post-monetary system could look like — one where every human being receives a single share of value, simply by being alive.
->
-> There will be no private sales, no mining, no staking rewards, and no speculation model. This is not a financial asset. It is a **message**, a **mirror**, and a **stepping stone**.
->
-> The code will remain open, transparent, and permissionless.
->
-> **Fairsharecoin is not here to dominate. It is here to dissolve.**  
-> When its purpose is fulfilled, it will disappear — and leave only fairness behind.
+This creates a mathematically fair system. It doesn’t matter if you’re the 100th person or the millionth — **your share is equal**, and **your time is valuable**.
 
 ---
 
-## Join the Vision
+## 🌍 Why Fairsharecoin?
 
-This project is open-source and community-driven.
+Modern money systems — fiat, crypto, or otherwise — often reward those who start early, invest heavily, or exploit loopholes. This project rejects that.
 
-If you resonate with the mission, you're welcome to:
-- Watch or star the repo  
-- Submit ideas, designs, or code  
-- Join discussions and help shape its evolution
+- ❌ No mining  
+- ❌ No preallocation  
+- ❌ No venture capital  
+- ❌ No inflation  
+- ❌ No founders’ advantage
 
-Together, we can explore a future beyond money —  
-and build the bridge that takes us there.
+- ✅ One person = One coin  
+- ✅ Open source & community-led  
+- ✅ Transparent, finite, and fair  
+- ✅ Designed to bridge the gap between crypto and a resource-based future
+
+---
+
+## 🧱 How It Works
+
+1. **One Coin = One Human:** A unique human account creates one and only one Fairsharecoin. Ever.  
+2. **Transparent Supply:** The total supply is always equal to the number of verified users.  
+3. **After Creation:** Once the coin is issued, users can interact freely using anonymous wallets if desired.  
+4. **No Further Issuance:** You can’t create more. Not even by paying. It’s a fair share — not for sale.
+
+---
+
+## 🛣️ Roadmap
+
+Visit: [fairsharecoin.org/how.html](http://fairsharecoin.org/how.html)  
+→ Understand the concept  
+→ Join the conversation  
+→ Help build the prototype
+
+---
+
+## 🧭 Founder's Pledge
+
+> *"This project will never include monetization, insider allocation, or compromises of fairness.  
+No backdoors, no hidden incentives — only a sincere effort toward a better future for all."*
+
+— *Founder of Fairsharecoin*
+
+---
+
+## 🤝 Contributing
+
+We're building this together, openly. View [CONTRIBUTING.md](CONTRIBUTING.md) to get started.  
+All are welcome. Especially if you believe fairness is worth coding for.
+
+---
+
+## 🚀 The Vision
+
+Fairsharecoin isn’t here to replace one power structure with another. It’s a **stepping stone**:
+
+`Fiat → Crypto → A Fair Share → Resource-Based World`
+
+No monetization. No centralization. No compromise of fairness.
+
+Let’s build what comes *after* money.
+
+---
+
+**Website:** [fairsharecoin.org](http://fairsharecoin.org)  
