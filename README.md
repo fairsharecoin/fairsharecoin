@@ -25,7 +25,7 @@ Website: https://fairsharecoin.org
 
 This is the core FairShareCoin project repository.  
 It will contain:
-- Pseudocode for identity, minting, sending, and recovery
+- [Pseudocode](./pseudocode.md) describing FSC’s logic and rules
 - Whitepaper (work in progress)
 - Technical notes and design philosophy
 - Contribution guidelines
