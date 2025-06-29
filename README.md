@@ -26,6 +26,7 @@ Website: https://fairsharecoin.org
 This is the core FairShareCoin project repository.  
 It contains:
 
+- [Founder's Statement](./FOUNDERS.md)
 - [Pseudocode](./pseudocode.md) outlining the logic of FSC  
 - Whitepaper (work in progress)  
 - Technical notes and design philosophy  
