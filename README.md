@@ -27,10 +27,10 @@ This is the core FairShareCoin project repository.
 It contains:
 
 - [Founder's Statement](./FOUNDERS.md)
-- [Pseudocode](./pseudocode.md) outlining the logic of FSC  
+- [Pseudocode](./PSEUDOCODE.md) outlining the logic of FSC  
 - Whitepaper (work in progress)  
 - [Technical Notes](./TECHNICAL.md) on FSC architecture and logic
-- Contribution guidelines
+- [Contribution guidelines](CONTRIBUTING.md)
 
 ---
 
