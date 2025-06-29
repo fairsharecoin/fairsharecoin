@@ -16,7 +16,25 @@ Each person may mint one FSC by verifying identity via an ICAO-compliant passpor
 
 ---
 
-## 2. No Mining / Controlled Growth
+## 2. Email / GPG Identity Anchor
+
+Every wallet is created with a secure email address or GPG public key.
+
+This identity anchor is:
+
+- Provided during the initial registration process
+- Stored off-chain, never placed on the public ledger
+- Used for wallet continuity, recovery, and optional interaction
+- Replaceable upon verified recovery (e.g. new passport)
+
+Even if email is lost, recovery via passport-based verification remains possible.  
+However, linking a new email may be required to reestablish continuity.
+
+This dual-anchor system (passport hash + email/GPG key) supports both uniqueness and usability.
+
+---
+
+## 3. No Mining / Controlled Growth
 
 FSC cannot be mined.  
 Coins are only issued to verified, living humans — once per person.
@@ -28,7 +46,7 @@ Coins are only issued to verified, living humans — once per person.
 
 ---
 
-## 3. Transactions and Fees
+## 4. Transactions and Fees
 
 - Transactions are always free
 - Any wallet may send fractions of FSC to any valid address
@@ -37,7 +55,7 @@ Coins are only issued to verified, living humans — once per person.
 
 ---
 
-## 4. No Anonymous Minting
+## 5. No Anonymous Minting
 
 Wallets must be created through verified identity to receive FSC.  
 Anonymous use is permitted **after** minting — but cannot initiate it.
@@ -48,7 +66,7 @@ This ensures:
 
 ---
 
-## 5. Wallet Recovery
+## 6. Wallet Recovery
 
 If a user loses access to their FSC wallet:
 
@@ -59,7 +77,7 @@ If a user loses access to their FSC wallet:
 
 ---
 
-## 6. Death and Inactivity
+## 7. Death and Inactivity
 
 - Coins are never reclaimed or reassigned
 - After 20+ years of inactivity, a wallet may be marked dormant
@@ -68,7 +86,7 @@ If a user loses access to their FSC wallet:
 
 ---
 
-## 7. Fractional Units
+## 8. Fractional Units
 
 FSC supports full divisibility into fractional units:
 - nanos (0.000000001 FSC)
@@ -83,7 +101,7 @@ Fractional units enable:
 
 ---
 
-## 8. No Governance Layer
+## 9. No Governance Layer
 
 FSC has no built-in voting, policy, or economic governance.
 
@@ -93,7 +111,7 @@ FSC has no built-in voting, policy, or economic governance.
 
 ---
 
-## 9. Future Extensions (Optional)
+## 10. Future Extensions (Optional)
 
 While FSC is minimal by design, the protocol may be extended by others via Layer 2 or Layer 3 systems.
 
@@ -107,7 +125,7 @@ None of these are required for FSC to function.
 
 ---
 
-## 10. Design Priorities
+## 11. Design Priorities
 
 - Enforced scarcity through human uniqueness, not computational cost  
 - Free global access — no energy burn, no startup capital  
