@@ -29,7 +29,7 @@ It contains:
 - [Founder's Statement](./FOUNDERS.md)
 - [Pseudocode](./pseudocode.md) outlining the logic of FSC  
 - Whitepaper (work in progress)  
-- Technical notes and design philosophy  
+– [Technical Notes](./TECHNICAL.md) on FSC architecture and logic
 - Contribution guidelines
 
 ---
