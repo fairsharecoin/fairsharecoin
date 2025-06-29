@@ -12,22 +12,23 @@ Website: https://fairsharecoin.org
 
 ## Principles
 
-- One FSC per unique person
-- Identity is verified once via passport (ICAO standard)
-- Wallets must receive FSC from a verified user before they can be used
-- Anonymous behavior is allowed after issuance — not before
-- Upon death, coins become inactive (deflation by nature)
-- Wallets can be recovered if ID is updated or lost
+- One FSC per unique person  
+- Identity is verified once via passport (ICAO standard)  
+- Wallets must receive FSC from a verified user before they can be used  
+- Anonymous behavior is allowed after issuance — not before  
+- Upon death, coins become inactive (deflation by nature)  
+- Wallets can be recovered if ID is updated or lost  
 
 ---
 
 ## About This Repository
 
 This is the core FairShareCoin project repository.  
-It will contain:
-- [Pseudocode](./pseudocode.md) describing FSC’s logic and rules
-- Whitepaper (work in progress)
-- Technical notes and design philosophy
+It contains:
+
+- [Pseudocode](./pseudocode.md) outlining the logic of FSC  
+- Whitepaper (work in progress)  
+- Technical notes and design philosophy  
 - Contribution guidelines
 
 ---
@@ -37,7 +38,11 @@ It will contain:
 FairShareCoin is an open, long-term experiment in digital fairness.
 
 We welcome builders, translators, cryptographers, and visionaries.  
-Contact: info@fairsharecoin.org  
-FSC, human readable: https://fairsharecoin.org
+Contact: contact@fairsharecoin.org  
+Join us: https://fairsharecoin.org
 
 ---
+
+## License
+
+MIT
