@@ -135,6 +135,45 @@ None of these are required for FSC to function.
 
 ---
 
+## 12. Wallet Freeze & Recovery Logic
+
+To protect user funds and maintain one-human-one-coin integrity, FairShareCoin wallets support a dual-freeze and single-reactivation system:
+
+### Freeze Triggers
+
+A wallet can be frozen by either of the following:
+
+1. **Registered Email or GPG Key**
+   - A signed request to freeze the wallet can be sent using the registered email or GPG key.
+   - Useful if the user's ePassport is lost or suspected stolen.
+
+2. **Verified ePassport Scan**
+   - A live scan using the original passport (matching the COINMINT_ID) can be used to freeze the wallet.
+   - Useful if the email account has been compromised.
+
+Frozen wallets cannot send or receive until reactivated.
+
+---
+
+### Reactivation
+
+To reactivate a frozen wallet, the user must:
+
+- Present a valid ePassport matching their original COINMINT_ID, and
+- Register a new email address or GPG key
+
+Only a valid ePassport (preferably a digitally signed one via NFC) can reactivate a frozen wallet. This ensures that control can only be restored by the original identity.
+
+---
+
+### Additional Safeguards
+
+- Freeze/recovery events are logged on the public ledger for transparency (no private data exposed).
+- Only the original identity can reclaim the wallet — there is no reset or re-mint.
+- This system protects against physical passport theft, email compromise, or malicious recovery attempts.
+
+
+
 ## Status
 
 This document is a living draft.  
