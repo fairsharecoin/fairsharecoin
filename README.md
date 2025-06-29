@@ -38,6 +38,6 @@ FairShareCoin is an open, long-term experiment in digital fairness.
 
 We welcome builders, translators, cryptographers, and visionaries.  
 Contact: info@fairsharecoin.org  
-Join us: https://fairsharecoin.org
+FSC, human readable: https://fairsharecoin.org
 
 ---
