@@ -9,7 +9,7 @@ There is no mining, no inflation, and no transaction fees.
 
 ## 1. Minting FSC (Identity-Based Issuance)
 ```pseudo
-function registerUser(passportData):
+function registerUser(passportData, userEmail):
     if not isValid(passportData):
         return "Invalid identity"
 
@@ -20,6 +20,7 @@ function registerUser(passportData):
 
     wallet = createWallet(coinMintId)
     issueCoin(wallet, 1 FSC)
+    storeEmail(wallet, userEmail)
 
     return wallet.address
 ```
@@ -39,11 +40,14 @@ function sendFSC(fromWallet, toWallet, amount):
 
 ## 3. Wallet Recovery (Lost Passport, Renewed ID, etc.)
 ```pseudo
-function recoverWallet(passportData):
+function recoverWallet(passportData, optionalNewEmail):
     coinMintId = hash(passportData)
 
     if coinExists(coinMintId):
-        return getWalletByCoin(coinMintId)
+        wallet = getWalletByCoin(coinMintId)
+        if optionalNewEmail:
+            updateEmail(wallet, optionalNewEmail)
+        return wallet
 
     return "No wallet found for this identity"
 ```
