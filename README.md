@@ -1,76 +1,43 @@
-# Fairsharecoin
+# FairShareCoin
 
-**One person, one coin. Not more, not less. The future is fair.**
+One coin. One person. Forever.
 
-Fairsharecoin is a radically fair cryptocurrency designed to redefine how value is distributed. Unlike traditional systems based on mining, capital, or staking, Fairsharecoin operates on a single principle:
+FairShareCoin (FSC) is a radically fair digital value system.  
+Each real human can receive exactly one coin — no more, no less.  
+No mining. No fees. No inflation. Just peer-to-peer value.
 
-> 🎯 One coin is issued to each unique person. Once. Ever.
-
-This creates a mathematically fair system. It doesn’t matter if you’re the 100th person or the millionth — **your share is equal**, and **your time is valuable**.
-
----
-
-## 🌍 Why Fairsharecoin?
-
-Modern money systems — fiat, crypto, or otherwise — often reward those who start early, invest heavily, or exploit loopholes. This project rejects that.
-
-- ❌ No mining  
-- ❌ No preallocation  
-- ❌ No venture capital  
-- ❌ No inflation  
-- ❌ No founders’ advantage
-
-- ✅ One person = One coin  
-- ✅ Open source & community-led  
-- ✅ Transparent, finite, and fair  
-- ✅ Designed to bridge the gap between crypto and a resource-based future
+Website: https://fairsharecoin.org
 
 ---
 
-## 🧱 How It Works
+## Principles
 
-1. **One Coin = One Human:** A unique human account creates one and only one Fairsharecoin. Ever.  
-2. **Transparent Supply:** The total supply is always equal to the number of verified users.  
-3. **After Creation:** Once the coin is issued, users can interact freely using anonymous wallets if desired.  
-4. **No Further Issuance:** You can’t create more. Not even by paying. It’s a fair share — not for sale.
-
----
-
-## 🛣️ Roadmap
-
-Visit: [fairsharecoin.org/how.html](http://fairsharecoin.org/how.html)  
-→ Understand the concept  
-→ Join the conversation  
-→ Help build the prototype
+- One FSC per unique person
+- Identity is verified once via passport (ICAO standard)
+- Wallets must receive FSC from a verified user before they can be used
+- Anonymous behavior is allowed after issuance — not before
+- Upon death, coins become inactive (deflation by nature)
+- Wallets can be recovered if ID is updated or lost
 
 ---
 
-## 🧭 Founder's Pledge
+## About This Repository
 
-> *"This project will never include monetization, insider allocation, or compromises of fairness.  
-No backdoors, no hidden incentives — only a sincere effort toward a better future for all."*
-
-— *Founder of Fairsharecoin*
-
----
-
-## 🤝 Contributing
-
-We're building this together, openly. View [CONTRIBUTING.md](CONTRIBUTING.md) to get started.  
-All are welcome. Especially if you believe fairness is worth coding for.
+This is the core FairShareCoin project repository.  
+It will contain:
+- Pseudocode for identity, minting, sending, and recovery
+- Whitepaper (work in progress)
+- Technical notes and design philosophy
+- Contribution guidelines
 
 ---
 
-## 🚀 The Vision
+## Get Involved
 
-Fairsharecoin isn’t here to replace one power structure with another. It’s a **stepping stone**:
+FairShareCoin is an open, long-term experiment in digital fairness.
 
-`Fiat → Crypto → A Fair Share → Resource-Based World`
-
-No monetization. No centralization. No compromise of fairness.
-
-Let’s build what comes *after* money.
+We welcome builders, translators, cryptographers, and visionaries.  
+Contact: info@fairsharecoin.org  
+Join us: https://fairsharecoin.org
 
 ---
-
-**Website:** [fairsharecoin.org](http://fairsharecoin.org)  
