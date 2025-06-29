@@ -39,7 +39,7 @@ It contains:
 FairShareCoin is an open, long-term experiment in digital fairness.
 
 We welcome builders, translators, cryptographers, and visionaries.  
-Contact: contact@fairsharecoin.org  
+Contact: info@fairsharecoin.org  
 Join us: https://fairsharecoin.org
 
 ---
