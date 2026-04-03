@@ -1,5 +1,7 @@
 # FairShareCoin – Pseudocode
 
+> **Status note (2026-04-03):** This pseudocode is conceptual and intentionally simplified. It does not represent the full current alpha implementation (session/auth hardening, CSRF, rate limits, operational controls). For currently implemented behavior, see `fairsharecoin/foundation`.
+
 This document outlines the core logic behind the FairShareCoin (FSC) system.
 
 Each real human can mint exactly one FSC after a one-time identity verification.  

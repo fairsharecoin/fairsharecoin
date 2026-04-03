@@ -25,7 +25,9 @@ Website: https://fairsharecoin.org
 
 ## About This Repository
 
-This is the core FairShareCoin project repository.  
+This repository primarily serves as concept/spec context.  
+For running code and current security/ops behavior, use `fairsharecoin/foundation` first.
+
 It contains:
 
 - [Founder's Statement](./FOUNDERS.md)
