@@ -59,10 +59,10 @@ Coins are only issued to verified, living humans — once per person.
 
 ## 4. Transactions and Fees
 
-- Transactions are always free
-- Any wallet may send fractions of FSC to any valid address
-- There are no miners, validators, or third parties involved
-- All transactions are peer-to-peer and final
+- The target model aims for fee-minimal or fee-free user transfers where operationally feasible
+- Any wallet may send fractions of FSC to valid destinations defined by the active implementation
+- Validator/settlement architecture is implementation-dependent during alpha phases
+- Finality and settlement guarantees should be read from the active runtime documentation
 
 ---
 
@@ -90,10 +90,10 @@ If a user loses access to their FSC wallet:
 
 ## 7. Death and Inactivity
 
-- Coins are never reclaimed or reassigned
-- After 20+ years of inactivity, a wallet may be marked dormant
-- This serves as a soft deflation mechanism
-- Inheritance and donation are up to the user while alive
+- Long-term policy intent is to avoid arbitrary reassignment of value
+- Dormancy windows (including any 20+ year concept) are draft policy values and may change before stable protocolization
+- Inactivity handling is intended as a fairness-preserving supply behavior, but implementation details remain under active design
+- Inheritance/donation behavior depends on future policy and implementation decisions
 
 ---
 
@@ -112,13 +112,13 @@ Fractional units enable:
 
 ---
 
-## 9. No Governance Layer
+## 9. Governance Scope (Draft Position)
 
-FSC has no built-in voting, policy, or economic governance.
+Current concept direction minimizes on-chain governance complexity.
 
-- There is no foundation, council, or DAO
-- The design is final by intent: 1 coin, 1 person, no reissuance
-- Philosophical, social, or legal adaptations must occur outside the system
+- The design intent remains: 1 coin, 1 person, no arbitrary reissuance
+- Governance/process structures may evolve off-chain as the project matures
+- Legal, social, and operational adaptations are expected to develop alongside implementation phases
 
 ---
 
@@ -185,7 +185,12 @@ Only a valid ePassport (preferably a digitally signed one via NFC) can reactivat
 
 
 
+## Current implementation references
+
+- Active implementation baseline: https://github.com/fairsharecoin/foundation
+- Alpha runbooks and release/readiness docs: `foundation/docs/`
+
 ## Status
 
 This document is a living draft.  
-As implementation evolves, details may be refined — but the foundational rules will not.
+As implementation evolves, details may be refined.

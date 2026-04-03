@@ -48,6 +48,11 @@ Join us: https://fairsharecoin.org
 
 ---
 
+## Current implementation references
+
+- Active implementation baseline: https://github.com/fairsharecoin/foundation
+- Alpha operational/security docs: https://github.com/fairsharecoin/foundation/tree/main/docs
+
 ## License
 
 MIT
