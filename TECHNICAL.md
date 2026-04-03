@@ -1,5 +1,7 @@
 # FairShareCoin – Technical Notes and Design Philosophy
 
+> **Status note (2026-04-03):** This is a living concept draft and contains forward-looking and historical design language. Current implemented behavior (alpha runtime, security controls, and operational constraints) is maintained in `fairsharecoin/foundation`. Treat this document as non-authoritative when it conflicts with implementation docs.
+
 This document outlines the core logic and functional design of FairShareCoin (FSC).  
 FSC is engineered to be minimal, fair, and durable.
 

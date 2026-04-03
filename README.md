@@ -1,5 +1,7 @@
 # FairShareCoin
 
+> **Status note (2026-04-03):** This repository is a conceptual/spec draft archive. The active implementation baseline and current security/operational posture live in **https://github.com/fairsharecoin/foundation**. If statements conflict, treat `foundation` as authoritative for current behavior.
+
 One coin. One person. Forever.
 
 FairShareCoin (FSC) is a radically fair digital value system.  
