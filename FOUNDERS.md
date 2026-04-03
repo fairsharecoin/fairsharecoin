@@ -35,5 +35,10 @@ This is a free idea — but it is not a neutral one.
 This project is designed to last for generations.  
 It may outlive its founders, contributors, and original platforms.
 
-Let it remain fair, minimal, and human-centered — forever.
+Let it remain fair, minimal, and human-centered over time.
+
+## Current implementation references
+
+- Active implementation baseline: https://github.com/fairsharecoin/foundation
+- This statement is values-oriented and does not supersede implementation/security documentation
 

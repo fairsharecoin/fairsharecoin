@@ -54,9 +54,15 @@ function recoverWallet(passportData, optionalNewEmail):
     return "No wallet found for this identity"
 ```
 
-## 4. Inactivity and Death
+## 4. Inactivity and Death (Concept Draft)
 ```pseudo
 function checkDormancy(wallet):
-    if wallet.lastActive > 20 years:
+    # illustrative policy placeholder only
+    if wallet.lastActive > DORMANCY_POLICY_WINDOW:
         markAsDormant(wallet)
 ```
+
+## Current implementation references
+
+- Active implementation baseline: https://github.com/fairsharecoin/foundation
+- Runtime behavior and security controls are defined in implementation docs/tests
