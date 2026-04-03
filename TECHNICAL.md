@@ -5,6 +5,15 @@
 This document outlines the core logic and functional design of FairShareCoin (FSC).  
 FSC is engineered to be minimal, fair, and durable.
 
+## Implementation Delta (concept vs current alpha runtime)
+
+To reduce confusion for readers:
+
+- This file describes **target/proposed** behavior in multiple sections.
+- The active alpha runtime today is centralized-operational and iterated in `fairsharecoin/foundation`.
+- Specific values/rules in this file (for example: dormancy windows, governance claims, fully fee-free final-state assumptions, and recovery/freeze flow details) should be treated as **draft policy language**, not guaranteed current production behavior.
+- For integration, testing, and operator expectations, prioritize the implementation repo docs and runbooks.
+
 ---
 
 ## 1. Identity-Based Minting
